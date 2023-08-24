@@ -1,0 +1,42 @@
+{
+  "en": {
+    "NotUpdated": "Not updated",
+    "NotDeleted": "Not deleted",
+    "AlreadyEx.": "Already exist.",
+    "FetchData": "fetch data successfully.",
+    "DataRetrivError": "Something Went wrong with Retrieving data",
+    "Auth": {
+      "RegisterSucc": "User successfully created!",
+      "LoginSucc": "User login successfully.",
+      "AccountDelete": "Account deleted",
+      "ValidOtp": "Please enter a valid OTP.",
+      "ValidEmail": "Please enter valid email",
+      "PassUpdate": "Password updated",
+      "PassChange": "your password password update successfully.",
+      "UserDelete": "User account has been deleted successfully!!",
+      "NoExist": "Number already exist!",
+      "UserUpdate": "User info updated successfully.",
+      "ValidNo": "Please enter valid phone number"
+    }
+  },
+  "fr": {
+    "NotUpdated": "Pas à jour",
+    "NotDeleted": "Non supprimé",
+    "AlreadyEx.": "Existe déjà.",
+    "FetchData": "récupérer les données avec succès.",
+    "DataRetrivError": "Une erreur s'est produite lors de la récupération des données",
+    "Auth": {
+      "RegisterSucc": "Utilisateur créé avec succès!",
+      "LoginSucc": "Utilisateur créé avec succès.",
+      "AccountDelete": "Compte supprimé",
+      "ValidOtp": "Veuillez saisir un OTP valide.",
+      "ValidEmail": "Veuillez saisir une adresse e-mail valide",
+      "PassUpdate": "Mot de passe mis à jour",
+      "PassChange": "votre mot de passe mise à jour du mot de passe avec succès.",
+      "UserDelete": "User account has been deleted successfully!!",
+      "NoExist": "Le numéro existe déjà !",
+      "UserUpdate": "Les informations utilisateur ont été mises à jour avec succès.",
+      "ValidNo": "S'il vous plait entrez un numéro de téléphone valide"
+    }
+  }
+}
